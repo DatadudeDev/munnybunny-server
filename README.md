@@ -19,7 +19,7 @@ Features:
 Docker Installation: 
 
 Docker Compose is the preferred method of installation.  
-My docker repo is private, but you can close the git repo and compile the image  
+My docker repo is private, but you can clone the git repo and compile the image  
 locally with the following commands: 
 
 ```
