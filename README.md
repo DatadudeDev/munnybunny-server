@@ -71,8 +71,4 @@ volumes:
   server:
   webserver:
 
-```
-
-Navigate to your LAN IP:PORT (80 or whatever you picked) to access the web GUI. 
-
-Enjoy! 
+``` 
